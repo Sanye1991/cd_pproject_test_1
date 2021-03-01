@@ -6,5 +6,6 @@
 
 
 if __name__ == '__main__':
+    print('welcome to my python phase1')
     print('welcome to my python phase2')
-    print('welcome to my python phase2')
+    print('welcome to my python phase3')
